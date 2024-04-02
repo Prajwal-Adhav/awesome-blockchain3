@@ -155,6 +155,9 @@ Main whitepapers:
 &nbsp; [![](http://www.google.com/s2/favicons?domain=https://www.tradingview.com/)&nbsp; **TradingView**](https://tradingview.go2cloud.org/SH2Co) [&#x25BE;](https://www.tradingview.com/) Research and blogging platform for financial markets. Free charts & data.  
 <br>
 
+&nbsp; [![](https://bitquery.io/favicon/logo.svg)&nbsp; **Bitquery**](https://bitquery.io/) [&#x25BE;](https://bitquery.io/) Bitquery provides blockchain data, offering real-time streaming APIs for 40+ chains, NFT APIs, and a money flow investigation tool.  
+<br>
+
 ### Start shopping with cryptocurrencies
 
 &nbsp; [![](http://www.google.com/s2/favicons?domain=https://purse.io)&nbsp; **Purse**](https://app.purse.io/?_r=gPBUzH) [&#x25BE;](https://purse.io/) Save +15% on Your Amazon Order with Bitcoin and Bitcoin Cash!
